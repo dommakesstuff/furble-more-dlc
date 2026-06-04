@@ -15,10 +15,10 @@
         ]
     },
     {
-        "file": "noimg2.dlc", 
-        "title": "Audio only",
+        "file": "tu003150.dlc", 
+        "title": "Multi DLC",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": "Multi-DLC ", "action": [75,0,4,4] }
         ]
     },
     {
